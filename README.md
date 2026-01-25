@@ -11,6 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge)](package.json)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge)](README.md)
+[![Author](https://img.shields.io/badge/Author-Hippolyte-purple.svg?style=for-the-badge)](https://github.com/hippolyte)
 
 **Un template web moderne et professionnel pour créer votre portfolio personnel avec des animations fluides, un design épuré et une excellente optimisation SEO.**
 
@@ -550,14 +551,24 @@ Pour améliorer ce template:
 ```
 MIT License
 
-Copyright (c) 2024
+Copyright (c) 2024 Hippolyte
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software.
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
+
+**© 2024 Hippolyte** - MIT License
 
 **TL;DR:** Vous pouvez utiliser, modifier et partager ce projet librement.
 
@@ -614,9 +625,15 @@ copies of the Software.
 
 <div align="center">
 
-**Fait avec ❤️ pour les développeurs ambitieux**
+**Créé avec ❤️ par [Hippolyte](https://github.com/hippolyte)**
 
 Transformez votre vision en réalité avec ce portfolio professionnel!
+
+### À Propos de ce Projet
+
+Ce template a été créé par **Hippolyte** pour aider les développeurs à créer un portfolio professionnel moderne et performant.
+
+**Licence:** MIT © 2024 Hippolyte - Libre d'utilisation et de modification
 
 ### Supportez le Projet
 
